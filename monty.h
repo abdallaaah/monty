@@ -1,5 +1,6 @@
 #ifndef MONTY_H
 #define MONTY_H
+#define X 5 
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
